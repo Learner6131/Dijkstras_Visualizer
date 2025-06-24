@@ -1,4 +1,4 @@
-# 🛰️ Dijkstra Algorithm Visualizer
+![image](https://github.com/user-attachments/assets/7ca2d7df-4f1e-4374-9e2e-0254badc2094)# 🛰️ Dijkstra Algorithm Visualizer
 
 A dynamic, interactive visualization tool that demonstrates how **Dijkstra’s shortest path algorithm** works, built using **Next.js**, **Cytoscape.js**, and **React**. This project visually simulates the step-by-step pathfinding process on a graph — ideal for learners, educators, and interview prep.
 
@@ -26,7 +26,7 @@ A dynamic, interactive visualization tool that demonstrates how **Dijkstra’s s
 
 ## 📸 Screenshots
 
-> in progress
+<img src="./public/dikjrast_visualizer.png" height=50% width=100% />
 
 ---
 
