@@ -20,14 +20,13 @@ A dynamic, interactive visualization tool that demonstrates how **Dijkstra’s s
 - **Framework**: Next.js (React)
 - **Graph Rendering**: Cytoscape.js
 - **State Management**: React Hooks
-- **Styling**: Tailwind CSS (or CSS Modules if you used that)
-- **Animation**: (mention if using Framer Motion or other libs)
+- **Styling**: Tailwind CSS and Material UI for icons
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add 1–2 GIFs or PNGs showing the graph, shortest path highlighting, and controls)*
+> in progress
 
 ---
 
